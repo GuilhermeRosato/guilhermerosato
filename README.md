@@ -18,5 +18,4 @@
 
 
 </dif><br/>
-
 Ingressando no ensino superior no segundo semestre de 2024, buscando um estágio para se especializar na área 😺
