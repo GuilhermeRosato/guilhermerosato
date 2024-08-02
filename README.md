@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Guilherme Rosato ](https://github-readme-stats.vercel.app/api?username=guilhermerosato&show_icons=true&theme=tokyonight)
 
 ## Minhas tecnologias
 <div style="display: inline_block"><br/>
