@@ -2,12 +2,12 @@
 ## Dados pessoais
 Olá! Meu nome é Guilherme Rosato Novaes de Souza 👋🏼
 
-data de nascimento: 30/07/1999<br> nacionalidade: Brasileiro<br> Sou proativo e flexível, Tenho facilidade para aprender e assimilar novos conceitos, estou sempre em busca de evoluir
-profissionalmente.<br>Ingressando no ensino superior no segundo semestre de 2024, buscando um estágio para se especializar na área<br>
-- Conhecimento técnico e aprendizado contínuo
-- Disponibilidade de início imediato
-- Resiliência profissional
-- Inglês - Intermediário
+Data de Nascimento: 30/07/1999<br> Nacionalidade: Brasileiro<br> Sou proativo e flexível, Tenho facilidade para aprender e assimilar novos conceitos, estou sempre em busca de evoluir
+profissionalmente.<br>Ingressando no ensino superior no segundo semestre de 2024, buscando um estágio para se especializar na área.<br>
+- Conhecimento técnico e aprendizado contínuo;
+- Disponibilidade de início imediato;
+- Resiliência profissional;
+- Inglês - Intermediário.
 ## Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rns//)
@@ -44,4 +44,4 @@ Setembro 2021 - Promovido em janeiro 2022<br>
 </dif><br/>
 
 ## Formação academica
-Bacharelado em analise e desenvolvimento de sistemas<br> Cursando primeiro semestre período noturno Uninove
+Bacharelado em analise e desenvolvimento de sistemas<br> Cursando primeiro semestre período noturno Uninove.
